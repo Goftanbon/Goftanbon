@@ -4,10 +4,7 @@
   
 
 ### <div align="center">I'm goftanbon keno a passionate programmer from Ethiopia  , a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+    
 
 - 🌱 I’m currently  computer science student in st.marry university.   
   
